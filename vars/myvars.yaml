@@ -1,3 +1,10 @@
 ---
 tomcat_version: 8.5.83
 en: "" #dev/sit/uat/pt
+artifact_version: ""
+nexcus_user: ""
+nexcus_password: ""
+
+
+
+
